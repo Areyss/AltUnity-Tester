@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AltUnity Test.sln"
+    "dotnet.defaultSolution": "AltUnity-Tester.sln"
 }
